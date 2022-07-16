@@ -1,0 +1,8 @@
+source_up
+export ATLAS_HOST=''
+export ATLAS_PSWD=''
+export ATLAS_USER='migrator'
+export DATABASE=''
+
+export MONGO_MIGRATE_URI="mongodb+srv://${ATLAS_USER}:${ATLAS_PSWD}@${ATLAS_HOST}/?retryWrites=true&w=majority"
+export MONGO_MIGRATE_DB="${DATABASE}"
