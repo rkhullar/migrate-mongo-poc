@@ -35,5 +35,5 @@ ts-node cli.ts new --name {action}
 ```
 
 #### tools
-[ ] https://www.npmjs.com/package/migrate-mongo
-[X] https://www.npmjs.com/package/mongo-migrate-ts
+- [ ] https://www.npmjs.com/package/migrate-mongo
+- [X] https://www.npmjs.com/package/mongo-migrate-ts
