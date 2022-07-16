@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.0.5",
+    "mongo-migrate-ts": "^1.1.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "migrationsDir": "migrations",
+  "migrationsCollection": "migrations",
+  "useEnv": true,
+  "environment": {
+    "uriVar": "MONGO_MIGRATE_URI",
+    "databaseVar": "MONGO_MIGRATE_DB"
+  }
+}
